@@ -1,0 +1,7 @@
+enum SMD_STATE {
+    NONE,
+    NODES,
+    SKELETON,
+    TRIANGLES,
+	TIME,
+}

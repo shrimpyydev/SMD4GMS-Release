@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_make_real",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_make_real",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

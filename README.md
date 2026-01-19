@@ -1,2 +1,2 @@
-# SMD4GMS Release
-
+# SMD4GMS-release
+.SMD parsing for Gamemaker studio

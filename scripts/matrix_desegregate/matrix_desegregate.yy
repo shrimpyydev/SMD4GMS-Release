@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"matrix_desegregate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"matrix_desegregate",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"just_in_time_btw_inverse",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"just_in_time_btw_inverse",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

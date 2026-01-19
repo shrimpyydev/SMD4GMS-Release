@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"populate_texture_pointers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"populate_texture_pointers",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

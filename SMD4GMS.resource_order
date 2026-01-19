@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings":[
+    {"name":"SMD4GMS_Core","order":16,"path":"folders/Scripts/SMD4GMS_Core.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"importer","order":1,"path":"objects/importer/importer.yy",},
+    {"name":"array_make_real","order":1,"path":"scripts/array_make_real/array_make_real.yy",},
+    {"name":"bake_world_space","order":2,"path":"scripts/bake_world_space/bake_world_space.yy",},
+    {"name":"build_bind_poses","order":3,"path":"scripts/build_bind_poses/build_bind_poses.yy",},
+    {"name":"build_bone_matricies","order":4,"path":"scripts/build_bone_matricies/build_bone_matricies.yy",},
+    {"name":"build_smd_buffer","order":5,"path":"scripts/build_smd_buffer/build_smd_buffer.yy",},
+    {"name":"build_triangle_from_vertex","order":6,"path":"scripts/build_triangle_from_vertex/build_triangle_from_vertex.yy",},
+    {"name":"credits","order":1,"path":"scripts/credits/credits.yy",},
+    {"name":"just_in_time_btw_inverse","order":8,"path":"scripts/just_in_time_btw_inverse/just_in_time_btw_inverse.yy",},
+    {"name":"just_in_time_btw","order":7,"path":"scripts/just_in_time_btw/just_in_time_btw.yy",},
+    {"name":"load_smd_animation","order":2,"path":"scripts/load_smd_animation/load_smd_animation.yy",},
+    {"name":"load_smd_model","order":3,"path":"scripts/load_smd_model/load_smd_model.yy",},
+    {"name":"matrix_desegregate","order":10,"path":"scripts/matrix_desegregate/matrix_desegregate.yy",},
+    {"name":"model_struct_cleanup","order":11,"path":"scripts/model_struct_cleanup/model_struct_cleanup.yy",},
+    {"name":"parse_smd_node_line","order":12,"path":"scripts/parse_smd_node_line/parse_smd_node_line.yy",},
+    {"name":"populate_texture_pointers","order":13,"path":"scripts/populate_texture_pointers/populate_texture_pointers.yy",},
+    {"name":"smd_local_matrix","order":14,"path":"scripts/smd_local_matrix/smd_local_matrix.yy",},
+    {"name":"SMD4GMS_enums","order":1,"path":"scripts/SMD4GMS_enums/SMD4GMS_enums.yy",},
+    {"name":"shd_render_smd_no_root_cancel","order":6,"path":"shaders/shd_render_smd_no_root_cancel/shd_render_smd_no_root_cancel.yy",},
+    {"name":"shd_render_smd","order":5,"path":"shaders/shd_render_smd/shd_render_smd.yy",},
+  ],
+}

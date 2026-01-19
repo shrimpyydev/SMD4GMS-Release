@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_render_smd_no_root_cancel",
+  "name":"shd_render_smd_no_root_cancel",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

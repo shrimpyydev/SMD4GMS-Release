@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"credits",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"credits",
+  "parent":{
+    "name":"SMD4GMS",
+    "path":"SMD4GMS.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

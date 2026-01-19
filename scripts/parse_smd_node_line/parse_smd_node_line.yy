@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"parse_smd_node_line",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"parse_smd_node_line",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

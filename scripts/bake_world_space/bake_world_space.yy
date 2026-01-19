@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bake_world_space",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bake_world_space",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

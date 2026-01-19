@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"build_triangle_from_vertex",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"build_triangle_from_vertex",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"load_smd_animation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_smd_animation",
+  "parent":{
+    "name":"SMD4GMS_Core",
+    "path":"folders/Scripts/SMD4GMS_Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

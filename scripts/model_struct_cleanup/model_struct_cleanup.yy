@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"model_struct_cleanup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"model_struct_cleanup",
+  "parent":{
+    "name":"helper_functions",
+    "path":"folders/Scripts/SMD4GMS_Core/helper_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

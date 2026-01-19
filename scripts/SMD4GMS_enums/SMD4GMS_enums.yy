@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SMD4GMS_enums",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SMD4GMS_enums",
+  "parent":{
+    "name":"SMD4GMS_Core",
+    "path":"folders/Scripts/SMD4GMS_Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
